@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **severoemanuel/severoemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Emanuel Severo</h1>
+
+<img align="left" src="https://img.shields.io/static/v1?label=Overview&message=Emanuel&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img align="left" src="https://img.shields.io/static/v1?label=Fullstack&message=Developer&color=31ac59&style=for-the-badge">
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=severoemanuel" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severoemanuel&layout=compact&theme=vision-friendly-dark" alt="Emanuel's most languages"/>
+</p>
