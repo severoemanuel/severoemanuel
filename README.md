@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Emanuel Severo</h1>
 
-<img align="left" src="https://img.shields.io/static/v1?label=Overview&message=Emanuel&color=f8efd4&style=for-the-badge&logo=GitHub">
-<img align="left" src="https://img.shields.io/static/v1?label=Fullstack&message=Developer&color=31ac59&style=for-the-badge">
+<div>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Emanuel&color=f8efd4&style=for-the-badge&logo=GitHub">
+  <img src="https://img.shields.io/static/v1?label=Fullstack&message=Developer&color=31ac59&style=for-the-badge">
+  <br />
+</div>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=severoemanuel" />
+<div>
+  <h2>My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=severoemanuel&show_icons=true&theme=vision-friendly-dark" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=severoemanuel&layout=compact&theme=vision-friendly-dark" alt="Emanuel's most languages"/>
-</p>
+</div>
