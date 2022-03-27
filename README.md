@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Python&message=medium&logo=Python)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Docker&message=medium&logo=Docker)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=PostgreSQL&message=medium&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=MongoDB&message=medium&logo=MongoDB)
 
 ## OS
 
@@ -55,10 +56,16 @@ Here are some ideas to get you started:
 
 ## Technologies
 
+![yarn](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=yarn&message=high&logo=yarn)
+![npm](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=npm&message=high&logo=npm)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Node.js&message=high&logo=Node.js)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=React&message=high&logo=React)
 ![NextJs](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=NextJs&message=high&logo=Next.js)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Express&message=high&logo=Express)
+![PrismaJS](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=PrismaJS&message=high&logo=Prisma)
+![Sequelize](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Sequelize&message=high&logo=Sequelize)
+![Mui](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Material-UI&message=high&logo=Mui)
+![Styled](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Styled%20Components&message=high&logo=Styled-Components)
 
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=NestJS&message=medium&logo=NestJS)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Socket.io&message=medium&logo=Socket.io)
