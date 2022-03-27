@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=NestJS&message=medium&logo=NestJS)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Socket.io&message=medium&logo=Socket.io)
-![Vite](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=NestJS&message=medium&logo=Vite)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=ViteJS&message=medium&logo=Vite)
 
 ## Tools
 ![Github](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Github&message=high&logo=Github)
