@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=severoemanuel&show_icons=true&theme=vision-friendly-dark" />
 
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Emanuel Severo</h1>
+<h1>Hi👋, I'm Emanuel Severo</h1>
 
 <img src="https://komarev.com/ghpvc/?username=severoemanuel&color=yellow" alt="Profile views" />
 <p>
