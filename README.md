@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severoemanuel&layout=compact&theme=vision-friendly-dark" alt="Emanuel's most   languages" />
 
-- I'm a junior web/mobile developer constantly learning about new technologies, especially technologies from the Node.js universe
+- I'm a web/mobile developer constantly learning about new technologies, especially technologies from the Node.js universe
 
 - My core technologies are React | React Native for frontend, and express or NestJS for backend.
 
